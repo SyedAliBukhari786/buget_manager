@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339429490676",
+    "project_id": "personal-cash-flow-navigator",
+    "storage_bucket": "personal-cash-flow-navigator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339429490676:android:bcef4bada556c4484c83a1",
+        "android_client_info": {
+          "package_name": "com.example.personalCashFlowNavigator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmjSNrLqIYPcuzp5QoTJNRwgbhUqoRR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
